@@ -1,0 +1,59 @@
+2020-08-15 15:35:53,274 : INFO : test_demo : Entering checkout shop
+2020-08-15 15:35:53,802 : INFO : test_demo : iphone X
+2020-08-15 15:35:53,830 : INFO : test_demo : Samsung Note 8
+2020-08-15 15:35:53,982 : INFO : test_demo : Nokia Edge
+2020-08-15 15:35:54,006 : INFO : test_demo : Blackberry
+2020-08-15 15:39:58,474 : INFO : test_demo : Entering checkout shop
+2020-08-15 15:39:58,554 : INFO : test_demo : iphone X
+2020-08-15 15:39:58,590 : INFO : test_demo : Samsung Note 8
+2020-08-15 15:39:58,614 : INFO : test_demo : Nokia Edge
+2020-08-15 15:39:58,638 : INFO : test_demo : Blackberry
+2020-08-15 15:40:06,436 : INFO : test_demo : Message received: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-08-15 15:40:14,341 : INFO : test_formsubission : Shubham Raina
+2020-08-15 15:40:14,685 : INFO : test_formsubission : Shubhamraina@gmail.com
+2020-08-15 15:40:14,921 : INFO : test_formsubission : Password112
+2020-08-15 15:40:15,669 : INFO : test_formsubission : ×
+Success! The Form has been submitted successfully!.
+2020-08-15 15:40:16,505 : INFO : test_formsubission : kalyani bodhankar
+2020-08-15 15:40:16,505 : INFO : test_formsubission : kalyani bodhankar
+2020-08-15 15:40:16,849 : INFO : test_formsubission : kalyanibodhankar12@gmail.com
+2020-08-15 15:40:16,849 : INFO : test_formsubission : kalyanibodhankar12@gmail.com
+2020-08-15 15:40:17,072 : INFO : test_formsubission : PasswordXX1
+2020-08-15 15:40:17,072 : INFO : test_formsubission : PasswordXX1
+2020-08-15 15:40:17,572 : INFO : test_formsubission : ×
+Success! The Form has been submitted successfully!.
+2020-08-15 15:40:17,572 : INFO : test_formsubission : ×
+Success! The Form has been submitted successfully!.
+2020-08-15 15:43:05,527 : INFO : test_demo : Entering checkout shop
+2020-08-15 15:43:05,591 : INFO : test_demo : iphone X
+2020-08-15 15:43:05,619 : INFO : test_demo : Samsung Note 8
+2020-08-15 15:43:05,679 : INFO : test_demo : Nokia Edge
+2020-08-15 15:43:05,735 : INFO : test_demo : Blackberry
+2020-08-15 15:43:13,320 : INFO : test_demo : Message received: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-08-15 15:43:20,206 : INFO : test_formsubission : Shubham Raina
+2020-08-15 15:43:20,510 : INFO : test_formsubission : Shubhamraina@gmail.com
+2020-08-15 15:43:20,711 : INFO : test_formsubission : Password112
+2020-08-15 15:43:21,263 : INFO : test_formsubission : ×
+Success! The Form has been submitted successfully!.
+2020-08-15 15:43:22,035 : INFO : test_formsubission : kalyani bodhankar
+2020-08-15 15:43:22,035 : INFO : test_formsubission : kalyani bodhankar
+2020-08-15 15:43:22,379 : INFO : test_formsubission : kalyanibodhankar12@gmail.com
+2020-08-15 15:43:22,379 : INFO : test_formsubission : kalyanibodhankar12@gmail.com
+2020-08-15 15:43:22,655 : INFO : test_formsubission : PasswordXX1
+2020-08-15 15:43:22,655 : INFO : test_formsubission : PasswordXX1
+2020-08-15 15:43:23,473 : INFO : test_formsubission : ×
+Success! The Form has been submitted successfully!.
+2020-08-15 15:43:23,473 : INFO : test_formsubission : ×
+Success! The Form has been submitted successfully!.
+2020-08-15 23:29:54,444 : INFO : test_formsubission : Manish Kumar
+2020-08-15 23:29:54,725 : INFO : test_formsubission : manish12@gmail.com
+2020-08-15 23:29:54,949 : INFO : test_formsubission : password3
+2020-08-15 23:29:55,597 : INFO : test_formsubission : ×
+Success! The Form has been submitted successfully!.
+2020-08-15 23:31:13,551 : INFO : test_formsubission : Manish Kumar
+2020-08-15 23:31:13,799 : INFO : test_formsubission : manish12@gmail.com
+2020-08-15 23:31:13,980 : INFO : test_formsubission : password3
+2020-08-15 23:31:14,512 : INFO : test_formsubission : ×
+Success! The Form has been submitted successfully!.
