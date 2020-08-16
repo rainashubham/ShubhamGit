@@ -30,7 +30,7 @@ class Test_E2E(Baseclass):
 
         Checkout.checkoutclick().click()
 
-        self.save_screenshot_test("screenshot.png")
+        self.save_screenshot_test("screenshotshubham.png")
 
         Confirmation = Checkout.confirmcheck()
 
@@ -54,7 +54,7 @@ class Test_E2E(Baseclass):
 
         assert "Success!" in finalsuccess
 
-        log.info(f"Message received: {finalsuccess}")
+        log.info(f"Message received by Shubham: {finalsuccess}")
 
         self.save_screenshot_test("screenshot1.png")
 
