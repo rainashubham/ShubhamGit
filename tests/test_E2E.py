@@ -54,7 +54,7 @@ class Test_E2E(Baseclass):
 
         assert "Success!" in finalsuccess
 
-        log.info(f"Message received by Shubham: {finalsuccess}")
+        log.info(f"Message received by Kalyni Bodhankar: {finalsuccess}")
 
-        self.save_screenshot_test("screenshot1.png")
+        self.save_screenshot_test("screenshotKalyani.png")
 
